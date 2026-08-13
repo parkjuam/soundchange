@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://soundchange-six.vercel.app/sitemap.xml
